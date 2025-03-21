@@ -2,19 +2,19 @@
 
 Individual assignment: Machine learning tutorial
 
-#**PCOS Detection Using Machine Learning**
+# **PCOS Detection Using Machine Learning**
 
-##**Overview**
+## **Overview**
 
 This project aims to develop a Machine Learning-based predictive model for detecting Polycystic Ovary Syndrome (PCOS) using medical datasets. The dataset is obtained from Kaggle and contains relevant health indicators for early diagnosis. The implementation involves data preprocessing, feature selection, model training, and evaluation using various machine-learning techniques.
 
-##**Dataset**
+## **Dataset**
 
 Source: PCOS Diagnosis Dataset - Kaggle
 
 Description: The dataset includes various medical attributes that are indicative of PCOS. The dataset does not contain personally identifiable information and is licensed under CC BY 4.0, allowing unrestricted use with proper attribution.
 
-##**Technologies Used**
+## **Technologies Used**
 
 **Programming Language:** Python
 
