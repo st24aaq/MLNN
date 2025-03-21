@@ -10,7 +10,7 @@ This project aims to develop a Machine Learning-based predictive model for detec
 
 ## **Dataset**
 
-Source: PCOS Diagnosis Dataset - Kaggle
+Source: PCOS Diagnosis Dataset - Kaggle(https://www.kaggle.com/datasets/samikshadalvi/pcos-diagnosis-dataset)
 
 Description: The dataset includes various medical attributes that are indicative of PCOS. The dataset does not contain personally identifiable information and is licensed under CC BY 4.0, allowing unrestricted use with proper attribution.
 
